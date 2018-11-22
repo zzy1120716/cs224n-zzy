@@ -1,0 +1,5 @@
+1. Official Python 2 documentation: https://docs.python.org/2/
+2. Official Python 2 tutorial: https://docs.python.org/2.7/tutorial/index.html
+3. Numpy Quickstart: https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+4. Python Tutorial from CS231N: http://cs231n.github.io/python-numpy-tutorial/
+5. Stanford Python course (CS41): http://stanfordpython.com/
